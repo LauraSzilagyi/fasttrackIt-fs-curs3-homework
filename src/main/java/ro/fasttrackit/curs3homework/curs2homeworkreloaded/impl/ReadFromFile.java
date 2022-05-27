@@ -1,8 +1,8 @@
-package ro.fasttrackit.curs2homeworkreloaded.impl;
+package ro.fasttrackit.curs3homework.curs2homeworkreloaded.impl;
 
 import lombok.RequiredArgsConstructor;
-import ro.fasttrackit.curs2homeworkreloaded.Person;
-import ro.fasttrackit.curs2homeworkreloaded.PersonProvider;
+import ro.fasttrackit.curs3homework.curs2homeworkreloaded.Person;
+import ro.fasttrackit.curs3homework.curs2homeworkreloaded.PersonProvider;
 
 import java.io.IOException;
 import java.nio.file.Files;

@@ -1,6 +1,6 @@
-package ro.fasttrackit.curs2homeworkreloaded.impl;
-import ro.fasttrackit.curs2homeworkreloaded.Person;
-import ro.fasttrackit.curs2homeworkreloaded.PersonProvider;
+package ro.fasttrackit.curs3homework.curs2homeworkreloaded.impl;
+import ro.fasttrackit.curs3homework.curs2homeworkreloaded.Person;
+import ro.fasttrackit.curs3homework.curs2homeworkreloaded.PersonProvider;
 
 import java.util.List;
 

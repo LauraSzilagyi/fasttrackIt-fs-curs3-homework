@@ -1,4 +1,4 @@
-package ro.fasttrackit.ex2;
+package ro.fasttrackit.curs3homework.ex2;
 
 
 import java.io.IOException;

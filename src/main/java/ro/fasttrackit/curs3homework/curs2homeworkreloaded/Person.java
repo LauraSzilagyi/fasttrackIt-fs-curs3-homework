@@ -1,4 +1,4 @@
-package ro.fasttrackit.curs2homeworkreloaded;
+package ro.fasttrackit.curs3homework.curs2homeworkreloaded;
 
 public record Person(String name, String firstname, int age) {
 

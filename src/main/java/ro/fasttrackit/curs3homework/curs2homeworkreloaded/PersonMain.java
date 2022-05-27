@@ -1,7 +1,7 @@
-package ro.fasttrackit.curs2homeworkreloaded;
+package ro.fasttrackit.curs3homework.curs2homeworkreloaded;
 
-import ro.fasttrackit.curs2homeworkreloaded.impl.ReadFromFile;
-import ro.fasttrackit.curs2homeworkreloaded.impl.ReadFromMemory;
+import ro.fasttrackit.curs3homework.curs2homeworkreloaded.impl.ReadFromFile;
+import ro.fasttrackit.curs3homework.curs2homeworkreloaded.impl.ReadFromMemory;
 
 import java.io.IOException;
 import java.util.ArrayList;
